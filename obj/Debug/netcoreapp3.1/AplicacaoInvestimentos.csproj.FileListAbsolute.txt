@@ -1,0 +1,14 @@
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\bin\Debug\netcoreapp3.1\AplicacaoInvestimentos.exe
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\bin\Debug\netcoreapp3.1\AplicacaoInvestimentos.deps.json
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\bin\Debug\netcoreapp3.1\AplicacaoInvestimentos.runtimeconfig.json
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\bin\Debug\netcoreapp3.1\AplicacaoInvestimentos.runtimeconfig.dev.json
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\bin\Debug\netcoreapp3.1\AplicacaoInvestimentos.dll
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\bin\Debug\netcoreapp3.1\AplicacaoInvestimentos.pdb
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\obj\Debug\netcoreapp3.1\AplicacaoInvestimentos.csproj.AssemblyReference.cache
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\obj\Debug\netcoreapp3.1\AplicacaoInvestimentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\obj\Debug\netcoreapp3.1\AplicacaoInvestimentos.AssemblyInfoInputs.cache
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\obj\Debug\netcoreapp3.1\AplicacaoInvestimentos.AssemblyInfo.cs
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\obj\Debug\netcoreapp3.1\AplicacaoInvestimentos.csproj.CoreCompileInputs.cache
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\obj\Debug\netcoreapp3.1\AplicacaoInvestimentos.dll
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\obj\Debug\netcoreapp3.1\AplicacaoInvestimentos.pdb
+D:\OneDrive - UCL Ensino Superior\Projetos-csharp\InvestimentosSoftware\AplicacaoInvestimentos\obj\Debug\netcoreapp3.1\AplicacaoInvestimentos.genruntimeconfig.cache
